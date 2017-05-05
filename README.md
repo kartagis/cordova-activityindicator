@@ -26,7 +26,7 @@ https://github.com/pebois/phonegap-plugin-ProgressHUD<br />
 https://github.com/bormansquirrel/WaitingDialog<br />
 https://github.com/anupamdhanuka/AndroidProgressHUD
 
-##Disclaimer##
+## Disclaimer ##
 
 I do not own this. I cloned this because the author removed the repo and I like this plugin.<br/>
 
