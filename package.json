@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-activityindicator",
+  "version": "2.1.0",
+  "description": "Cordova Activity Indicator Plugin",
+  "cordova": {
+    "id": "cordova-plugin-activityindicator",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartagis/cordova-plugin-activityindicator"
+  },
+  "keywords": [
+    "cordova",
+    "camera",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ]
+}
